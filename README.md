@@ -12,6 +12,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = 'Fco Javier Sanz'
         self.nickname = 'Kohkitos'
+        self.pronouns = ['he/him', 'they/them']
         self.role = 'Data Analyst'
         self.language_spoken = ['es_ES', 'en_EN']
 
