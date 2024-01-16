@@ -15,7 +15,7 @@
 `--' '--'     `-----'`--' `--`--' '--' `--'     `--'       `-----' `-----'
 '''
 
-class SoftwareEngineer:
+class SoftwareDeveloper:
 
     def __init__(self):
         self.name = 'Fco Javier Sanz'
@@ -28,7 +28,7 @@ class SoftwareEngineer:
         print("Hi friend! Feel free to look around!")
 
 
-me = SoftwareEngineer()
+me = SoftwareDeveloper()
 me.say_hi()
 ```
 
