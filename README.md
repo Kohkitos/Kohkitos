@@ -18,7 +18,7 @@
 class SoftwareDeveloper:
 
     def __init__(self):
-        self.name = 'Fco Javier Sanz'
+        self.name = 'Javier Sanz'
         self.nickname = 'Kohkitos'
         self.pronouns = ['he/him', 'they/them']
         self.role = ['CyberSec Analysts', 'Software Engineer']
