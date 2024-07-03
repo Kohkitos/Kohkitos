@@ -21,7 +21,7 @@ class SoftwareDeveloper:
         self.name = 'Javier Sanz'
         self.nickname = 'Kohkitos'
         self.pronouns = ['he/him', 'they/them']
-        self.role = ['CyberSec Analyst', 'Software Engineer']
+        self.role = ['CyberSec Analyst', 'Software Developer']
         self.language_spoken = ['es_ES', 'en_EN']
 
     def say_hi(self):
