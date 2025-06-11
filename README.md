@@ -15,20 +15,20 @@
 `--' '--'     `-----'`--' `--`--' '--' `--'     `--'       `-----' `-----'
 '''
 
-class SoftwareDeveloper:
+class FrogGeek:
 
     def __init__(self):
         self.name = 'Javier Sanz'
         self.nickname = 'Kohkitos'
         self.pronouns = ['he/him', 'they/them']
-        self.role = ['CyberSec Analyst', 'Software Developer']
+        self.role = ['Cyber Security Analyst', 'Cyber Security Engineer']
         self.language_spoken = ['es_ES', 'en_EN']
 
     def say_hi(self):
         print("Hi friend! Feel free to look around!")
 
 
-me = SoftwareDeveloper()
+me = FrogGeek()
 me.say_hi()
 ```
 
