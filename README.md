@@ -21,7 +21,7 @@ class FrogGeek:
         self.name = 'Javier Sanz'
         self.nickname = 'Kohkitos'
         self.pronouns = ['he/him', 'they/them']
-        self.role = ['Cyber Security Analyst', 'Cyber Security Engineer']
+        self.role = ['Cyber Security Analyst']
         self.language_spoken = ['es_ES', 'en_EN']
 
     def say_hi(self):
